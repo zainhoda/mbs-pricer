@@ -1,0 +1,31 @@
+swap<-matrix(1,8,2)
+#recent swap rates
+swap[1,1]=5.29
+swap[2,1]=5.04
+swap[3,1]=4.97
+swap[4,1]=4.98
+swap[5,1]=5.01
+swap[6,1]=5.08
+swap[7,1]=5.19
+swap[8,1]=5.40
+swap[8,2]=360
+swap[7,2]=120
+swap[6,2]=84
+swap[5,2]=60
+swap[4,2]=48
+swap[3,2]=36
+swap[2,2]=24
+swap[1,2]=12
+
+sws<-smooth.spline(swap[,2],swap[,1],spar=0.0001)
+plot(swap[,2],swap[,1])
+lines(sws)
+
+reqdates<-c(0:480)
+
+swsp<-predict.smooth.spline(sws,reqdates,0)
+#first derivative
+swspderiv<-predict.smooth.spline(sws,reqdates,1)
+
+forwardCurve <- swspderiv$y * (swspderiv$x/12) + swsp$y
+tsplot(forwardCurve)

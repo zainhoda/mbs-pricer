@@ -1,0 +1,19 @@
+yieldsDec <- yields/100
+
+simulatedRates1 <- rep(0, length(yieldsDec))
+simulatedRates1[1] <- rateSplineLong$y[1]/100
+for (i in 2:length(yieldsDec)) {
+	simulatedRates1[i] <- simulatedRates1[i-1] + 0.0346 * (yieldsDec[i] - yieldsDec[i-1])
+}
+
+simulatedRates2 <- 0.0289 + 0.7813*yieldsDec
+
+
+par(mfrow=c(3,1))
+tsplot(simulatedRates1)
+title(main="Simulated From First Order Difference")
+tsplot(simulatedRates2)
+title(main="Simulated From Regression")
+tsplot(rateSplineLong$y/100)
+title(main="Realized Path")
+par(mfrow=c(1,1))

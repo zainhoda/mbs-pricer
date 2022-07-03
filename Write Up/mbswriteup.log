@@ -1,0 +1,393 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (MiKTeX 2.4) (preloaded format=latex 2005.7.18)  24 MAY 2007 01:27
+entering extended mode
+**mbswriteup.tex
+(mbswriteup.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8g> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, french, loaded.
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\base\article.cls
+Document Class: article 2004/02/16 v1.4f Standard LaTeX document class
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\base\size10.clo
+File: size10.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\base\inputenc.sty
+Package: inputenc 2004/02/05 v1.0d Input encoding file
+
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\base\latin1.def
+File: latin1.def 2004/02/05 v1.0d Input encoding file
+))
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+)
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+)
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\graphics\graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2003/03/12 v1.1 MiKTeX 'graphics' configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\graphics\pdftex.def
+File: pdftex.def 2005/06/20 v0.03m graphics/color for pdftex
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(mbswriteup.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\context\base\supp-pdf.tex
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\context\base\supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count100
+\scratchcounter=\count101
+\scratchtoks=\toks20
+\scratchdimen=\dimen114
+\scratchskip=\skip46
+\scratchmuskip=\muskip11
+\scratchbox=\box28
+\scratchread=\read1
+\scratchwrite=\write3
+\zeropoint=\dimen115
+\onepoint=\dimen116
+\onebasepoint=\dimen117
+\minusone=\count102
+\thousandpoint=\dimen118
+\onerealpoint=\dimen119
+\emptytoks=\toks21
+\nextbox=\box29
+\nextdepth=\dimen120
+\everyline=\toks22
+\!!counta=\count103
+\!!countb=\count104
+\recursecounter=\count105
+)
+loading : Context Support Macros / PDF (2004.03.26)
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen121
+\MPnumerator=\count109
+\everyMPtoPDFconversion=\toks23
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 11.
+ (S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 11.
+
+(S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+) [1
+
+{psfonts.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+ []
+
+[3] <mktvoltable.png, id=59, 318.18875pt x 134.5025pt>
+File: mktvoltable.png Graphic file (type png)
+ <use mktvoltable.png>
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+<swaption.png, id=60, 593.21625pt x 351.3125pt>
+File: swaption.png Graphic file (type png)
+ <use swaption.png> [4 <mktvoltable.png> <swaption.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+<regressionprediction.png, id=64, 794.97pt x 613.29124pt>
+File: regressionprediction.png Graphic file (type png)
+
+<use regressionprediction.png>
+Overfull \hbox (12.7332pt too wide) in paragraph at lines 112--112
+ [] 
+ []
+
+[5] [6 <regressionprediction.png>]
+<optimalexercise.png, id=71, 489.83pt x 314.17375pt>
+File: optimalexercise.png Graphic file (type png)
+ <use optimalexercise.png>
+<suboptimalexercise.png, id=72, 923.45pt x 631.35875pt>
+File: suboptimalexercise.png Graphic file (type png)
+
+<use suboptimalexercise.png> [7 <optimalexercise.png> <suboptimalexercise.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--151
+
+ []
+
+<CPRtoRefinChartModelA.png, id=80, 488.82625pt x 313.17pt>
+File: CPRtoRefinChartModelA.png Graphic file (type png)
+
+<use CPRtoRefinChartModelA.png>
+<CPRtoRefinChartModelB.png, id=81, 491.8375pt x 328.22626pt>
+File: CPRtoRefinChartModelB.png Graphic file (type png)
+
+<use CPRtoRefinChartModelB.png> [8 <CPRtoRefinChartModelA.png>]
+<seasoning.png, id=85, 448.67625pt x 310.15875pt>
+File: seasoning.png Graphic file (type png)
+ <use seasoning.png> [9 <CPRtoRefinChartModelB.png>] <monthlymultiplier.png, id
+=89, 618.31pt x 349.305pt>
+File: monthlymultiplier.png Graphic file (type png)
+
+<use monthlymultiplier.png>
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+[10 <seasoning.png> <monthlymultiplier.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+
+ []
+
+<londonmodel.png, id=93, 490.83376pt x 315.1775pt>
+File: londonmodel.png Graphic file (type png)
+ <use londonmodel.png>
+[11 <londonmodel.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+<0CPRchart.png, id=97, 536.0025pt x 350.30875pt>
+File: 0CPRchart.png Graphic file (type png)
+ <use 0CPRchart.png>
+<7CPRchart.png, id=98, 533.995pt x 350.30875pt>
+File: 7CPRchart.png Graphic file (type png)
+ <use 7CPRchart.png>
+<20CPRchart.png, id=99, 534.99875pt x 350.30875pt>
+File: 20CPRchart.png Graphic file (type png)
+ <use 20CPRchart.png>
+<50CPRchart.png, id=100, 536.0025pt x 350.30875pt>
+File: 50CPRchart.png Graphic file (type png)
+ <use 50CPRchart.png>
+<legendCPR.png, id=101, 467.7475pt x 128.48pt>
+File: legendCPR.png Graphic file (type png)
+ <use legendCPR.png> [12 <0CPRchart.png> <7CPRchart.png> <20CPRchart.png> <50CP
+Rchart.png> <legendCPR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 228--230
+
+ []
+
+[13] <zvvscpn.png, id=109, 445.665pt x 256.96pt>
+File: zvvscpn.png Graphic file (type png)
+ <use zvvscpn.png>
+<zvvscpntable.png, id=110, 252.945pt x 132.495pt>
+File: zvvscpntable.png Graphic file (type png)
+ <use zvvscpntable.png>
+[14 <zvvscpn.png> <zvvscpntable.png>]
+<oasvscpn.png, id=114, 445.665pt x 255.95625pt>
+File: oasvscpn.png Graphic file (type png)
+ <use oasvscpn.png>
+<oasvscpntable.png, id=115, 252.945pt x 132.495pt>
+File: oasvscpntable.png Graphic file (type png)
+ <use oasvscpntable.png>
+<regbond.png, id=116, 445.665pt x 268.00125pt>
+File: regbond.png Graphic file (type png)
+ <use regbond.png> [15 <oasvscpn.png> <oasvscpntable.png>] <negconvexity.png, i
+d=120, 445.665pt x 268.00125pt>
+File: negconvexity.png Graphic file (type png)
+
+<use negconvexity.png> [16 <regbond.png> <negconvexity.png>]
+Overfull \hbox (1.52592pt too wide) in paragraph at lines 294--294
+[]\OT1/cmr/bx/n/10 Third ap-proach - In-cor-po-rat-ing the dy-namic link be-twe
+en MBS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--299
+
+ []
+
+[17] <classes.png, id=127, 549.05125pt x 439.6425pt>
+File: classes.png Graphic file (type png)
+ <use classes.png>
+Overfull \hbox (39.33325pt too wide) in paragraph at lines 317--317
+ [] 
+ []
+
+[18] <inheritance.png, id=131, 388.45125pt x 192.72pt>
+File: inheritance.png Graphic file (type png)
+ <use inheritance.png>
+[19 <classes.png> <inheritance.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 327--331
+
+ []
+
+[20]
+Overfull \hbox (106.49606pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/10 http://ieeexplore.ieee.org/iel5/9441/29990/01371503.pdf?tp=&
+isnumber=&arnumber=1371503 
+ []
+
+
+Overfull \hbox (14.43594pt too wide) in paragraph at lines 338--344
+\OT1/cmr/m/n/10 Takeaki Kariya, Masaaki Kobayashi. "Pric-ing Mortgage-Backed Se
+-cu-ri-ties (MBS)."
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--344
+
+ []
+
+
+Overfull \hbox (69.74638pt too wide) in paragraph at lines 346--346
+[]\OT1/cmtt/m/n/10 http://www.federalreserve.gov/releases/h15/data/Weekly_Frida
+y_/H15_MORTG_NA.txt 
+ []
+
+[21] [22] (mbswriteup.aux) ) 
+Here is how much of TeX's memory you used:
+ 2037 strings out of 95515
+ 23456 string characters out of 1188957
+ 72041 words of memory out of 1071728
+ 5026 multiletter control sequences out of 60000
+ 12026 words of font info for 47 fonts, out of 1000000 for 2000
+ 14 hyphenation exceptions out of 4999
+ 27i,12n,22p,1113b,214s stack positions out of 5000i,500n,10000p,200000b,32768s
+PDF statistics:
+ 147 PDF objects out of 300000
+ 0 named destinations out of 300000
+ 116 words of extra memory for PDF output out of 65536
+<S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\typ
+e1\bluesky\cm\cmti10.pfb><S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\
+bluesky\cm\cmbx10.pfb><S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\blu
+esky\cm\cmr8.pfb><S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\public\t
+tcmex\fmex7.pfb><S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\bluesky\c
+m\cmmi5.pfb><S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\bluesky\cm\cm
+r5.pfb><S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\bluesky\cm\cmsy7.p
+fb><S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\bluesky\cm\cmex10.pfb>
+<S:\TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\bluesky\cm\cmmi7.pfb><S:\
+TeX\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\bluesky\cm\cmsy10.pfb><S:\TeX
+\MiKTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\bluesky\cm\cmmi10.pfb><S:\TeX\Mi
+KTeX\2.4\texmf\miktex\bin\..\..\fonts\type1\bluesky\cm\cmtt10.pfb><S:\TeX\MiKTe
+X\2.4\texmf\miktex\bin\..\..\fonts\type1\bluesky\cm\cmr6.pfb><S:\TeX\MiKTeX\2.4
+\texmf\miktex\bin\..\..\fonts\type1\bluesky\cm\cmr7.pfb><S:\TeX\MiKTeX\2.4\texm
+f\miktex\bin\..\..\fonts\type1\bluesky\cm\cmbx12.pfb><S:\TeX\MiKTeX\2.4\texmf\m
+iktex\bin\..\..\fonts\type1\bluesky\cm\cmr10.pfb><S:\TeX\MiKTeX\2.4\texmf\mikte
+x\bin\..\..\fonts\type1\bluesky\cm\cmr12.pfb><S:\TeX\MiKTeX\2.4\texmf\miktex\bi
+n\..\..\fonts\type1\bluesky\cm\cmr17.pfb>
+Output written on mbswriteup.pdf (22 pages, 308939 bytes).

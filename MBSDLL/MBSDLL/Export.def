@@ -1,0 +1,8 @@
+LIBRARY	"MBSDLL"
+EXPORTS
+	initializeMBS @7
+	mcPrice @2
+	ZVspread @10
+	OAspread @3
+	OAduration @4
+	OAconvexity @5

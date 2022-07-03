@@ -1,0 +1,16 @@
+rates <- mortgage.rates[1190:1712,2]
+rates <- rates[!is.na(rates)]
+yields <- treasury.yields[1002:3502,10]
+rateSpline <- smooth.spline(1:length(rates), rates)
+#par(mfrow=c(2,1))
+#tsplot(rates)
+#plot(rateSpline)
+#par(mfrow=c(1,1))
+
+rateSplineLong <- predict.smooth.spline(rateSpline, seq(from=1, to=length(rates), length.out=length(yields)))
+plot(rateSplineLong)
+
+ls.print(lsfit(yields/100, rateSplineLong$y/100))
+ls.print(lsfit(diff(yields/100), diff(rateSplineLong$y/100)))
+
+unitroot(lsfit(yields/100, rateSplineLong$y/100)$residuals)
